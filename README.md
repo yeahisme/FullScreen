@@ -15,3 +15,8 @@ document.getElementById("removecfs").addEventListener("click",function(){
 	console.log('FullScreen已销毁');
 },false)
 ```
+html代码块  
+```html
+<button id="fullScreenbutton">fullScreenbutton</button>
+<button id="removecfs">remove controlFullScreen</button>
+```
