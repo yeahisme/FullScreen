@@ -20,3 +20,5 @@ html代码块
 <button id="fullScreenbutton">fullScreenbutton</button>
 <button id="removecfs">remove controlFullScreen</button>
 ```
+*兼容性*  
+Works on chrome (>= 15), firefox (>= 9), ie (>= 11), opera(>= 12.1), safari (>= 5)
